@@ -36,4 +36,22 @@ To better understand the dataset and guide my analysis, I explored questions suc
 6. Which variables appear to have the strongest influence on the target metric or outcome?
 
 
+### Data Analysis
+After preparing and merging the datasets, I conducted a detailed analysis to identify Social Buzz’s most popular content categories:
+
+- Merged three datasets into a single, unified dataset to enable comprehensive analysis across all relevant variables.
+
+- Calculated total and average engagement metrics (likes, shares, comments) for each content category.
+
+- Ranked categories based on overall engagement to determine the top performers.
+
+- Compared engagement distribution between the top 5 categories and all remaining categories.
+
+- Analyzed time-based trends to identify periods of peak activity and engagement.
+
+- Assessed year-on-year and month-on-month performance to detect emerging popular categories.
+
+- Summarized patterns and insights to guide Social Buzz’s IPO strategy and content optimization.
+
+
 
