@@ -91,7 +91,7 @@ The analysis produced the following key results:
 
 3. Content Classification – Categories relied on existing labels, which may contain inconsistencies or subjective assignments.
 
-4.Engagement Metrics – Only available engagement measures (likes, shares, comments) were analyzed; other important factors such as watch time or click-through rates were not included.
+4. Engagement Metrics – Only available engagement measures (likes, shares, comments) were analyzed; other important factors such as watch time or click-through rates were not included.
 
 5. External Factors – The analysis did not account for external influences (e.g., marketing campaigns, viral events) that may have impacted engagement.
 
